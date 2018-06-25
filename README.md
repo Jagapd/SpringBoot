@@ -8,3 +8,7 @@ The API request can be used as part of any automation.
 To run the application :
 
 mvn package && java -jar target/gs-spring-boot-0.1.0.jar
+
+Access the API's after running it on server:
+
+https://localhost:8080/{API}
